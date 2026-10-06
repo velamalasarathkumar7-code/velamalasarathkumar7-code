@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sarath 👋
 
-<!--
-**velamalasarathkumar7-code/velamalasarathkumar7-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Credit operations and quality professional with a background in KYC/AML compliance, internal audits, and loan portfolio monitoring. I'm now building practical digital tools with Python, web technologies, and AI automation.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages & Web:** Python, HTML, CSS
+- **Data:** Data analysis, reporting, Excel
+- **AI:** Agentic AI & automation workflows
+- **Domain:** Credit, compliance, auditing, quality assurance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🔧 Learning and building automation projects
+- 📊 Working on data analysis and reporting projects
+- 🌐 Building simple websites
+
+## Languages
+English · Telugu · Hindi
+
+## Contact
+📧 velamalasarathkumar7@gmail.com
